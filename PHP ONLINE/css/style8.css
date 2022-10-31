@@ -1,0 +1,79 @@
+.clr {
+	clear: both;
+}
+.content5 {
+	margin: 20px auto;
+	width:  500px;
+    height: 400px;
+	border: 1px solid #999;
+	padding: 10px;
+}
+
+
+.content5 div.info img{
+	float: left;
+	margin-right: 20px;
+    
+}
+
+.content5 div.info h1 {
+	color: red;
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+.content5 div.info form p{
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+.content5 div.info input[type=text] {
+	width: 244px;
+	height: 25px;
+}
+
+.content5 div.info input[type=submit] {
+	padding: 5px 14px;
+}
+
+.content5 div.result {
+	margin-top: 10px;
+}
+
+.content5 div.result div.normal{
+	margin-top: 6px
+}
+
+.content5 div.result div.normal p{
+	float: left;
+}
+
+.content5 div.result div.normal:first-child{
+	font-weight: bold;
+}
+
+
+.content5 div.result div.normal p.col1{
+	width: 50%;
+}
+
+.content5 div.result div.normal p.col2{
+	width: 25%;
+	text-align: center;
+}
+
+.content5 div.result div.normal p.col3{
+	width: 25%;
+	text-align: right;
+}
+
+
+.content5 div.result p.total{
+	border-top: 1px solid #DDDDFF;
+    margin-top: 10px;
+    padding-top: 10px;
+    text-align: right;
+	color: blue;
+	font-weight: bold;
+}

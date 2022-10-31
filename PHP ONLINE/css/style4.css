@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.content {
+    margin: 20px auto;
+    width: 830px;
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+.content h1 {
+    color: rgb(250, 59, 1);
+    text-align: center;
+}
+
+.content ul {
+    margin: 23px;
+}
+
+.content ul li {
+   list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.content ul li a {
+     display: block;
+     width: 210px;
+     height: 188px;
+}
+
+.content div.result {
+    margin-left: 320px;
+}

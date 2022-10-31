@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.content {
+    margin: 20px auto;
+    width: 600px;
+    border: 1px solid #999;
+    padding: 10px;
+    background: url(images/trangvo.jpg) no-repeat;
+    min-height: 400px;
+    min-width: 900px;
+}
+
+.content h1 {
+    color: rgb(71, 247, 36);
+    text-align: center;
+}
+
+.content ul {
+    margin: 23px 0px 0px 100px;
+}
+
+.content ul li {
+    margin-top: 8px;
+    list-style: decimal inside;
+}

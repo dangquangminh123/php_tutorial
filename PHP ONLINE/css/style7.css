@@ -1,0 +1,34 @@
+.content7 {
+    margin: 20px auto;
+    width: 600px;
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+.content7 h1 {
+    color: red;
+    text-align: center;
+}
+
+.content7 div.result{
+    margin-left: 320px;
+}
+
+.content7 div.question{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.content7 div.question p{
+    margin-top: 5px;
+}
+
+.content7 div.question p:last-child{
+    text-align: right;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.content7 div.answer p{
+    font-weight: bold;
+}
